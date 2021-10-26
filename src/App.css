@@ -1,0 +1,26 @@
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.app-header {
+  display: flex;
+  padding: 10px;
+}
+
+.video-select {
+  margin-right: 20px;
+}
+
+.main-app {
+  margin-top: 20px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+}
